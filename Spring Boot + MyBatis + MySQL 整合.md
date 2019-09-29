@@ -2,6 +2,9 @@
 
 来源：https://www.jianshu.com/p/c2444ddd2de9
 
+代码来源：https://github.com/435242634/Spring-Boot-Demo/tree/feature/3-spring-boot-mybatis
+
+
 1. 在 pom.xml 的文件中添加以下依赖：
 
 ```
